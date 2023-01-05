@@ -3,6 +3,7 @@
     padding: 1rem;
     width: 90%;
     max-width: 40rem;
+
   }
   
   .input label {
@@ -15,13 +16,13 @@
     font: inherit;
     display: block;
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid white;
     padding: 0.15rem;
     margin-bottom: 0.5rem;
   }
   
   .input input:focus {
     outline: none;
-    border-color: #4f005f;
+    border-color: #3a5a40;
   }
   
